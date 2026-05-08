@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+google-cloud-bigquery>=3.20
+pydantic>=2.6
+orjson>=3.10
